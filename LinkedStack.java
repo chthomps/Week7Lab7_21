@@ -1,7 +1,6 @@
 
 
-	
-	 //Code (except taken from "Additional Examples"
+//Code (except taken from "Additional Examples"
 // This class implements a Stack ADT as a linked list
 		public class LinkedStack {
 			
