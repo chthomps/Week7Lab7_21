@@ -1,6 +1,6 @@
 
 
-//Code (except taken from "Additional Examples"
+//Code (except Exercise2 removeBottomHalf) taken from "Additional Examples"
 // This class implements a Stack ADT as a linked list
 		public class LinkedStack {
 			
