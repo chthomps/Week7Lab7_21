@@ -66,7 +66,7 @@
 				int x = (half.size() / 2);
 				LinkedNode currentNode = half.front;
 
-				// Time complexity should be O(1)
+				// Time complexity should be O(N)
 				// Loop through until the middle node of the LinkedList is found  
 				for (int index = 1; index < x; index++) {
 					currentNode = currentNode.next;
